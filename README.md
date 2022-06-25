@@ -1,7 +1,7 @@
 # Índice
 
-- [Sobre](#📄sobre)
-- [Tecnologias Utilizadas](#💻-tecnologias-utilizadas)
+- [Sobre](#-sobre)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 
 ## 📄Sobre
 
